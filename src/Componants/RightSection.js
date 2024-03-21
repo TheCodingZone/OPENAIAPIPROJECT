@@ -8,7 +8,7 @@ import logo from "../Assets/icon.png"
 import { BiUpArrowAlt } from "react-icons/bi";
 import nouser from "../Assets/nouser.png"
 const RightSection = () => {
-  const openAiApi="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";
+  const openAiApi="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";
   const[message,setMessage]=useState('');
   const[allMessage,setAllMessage]=useState([]);
 
